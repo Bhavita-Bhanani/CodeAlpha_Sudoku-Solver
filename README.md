@@ -1,7 +1,7 @@
 # CodeAlpha_Sudoku-Solver
-# Sudoku Solver
+# Sudoku Solver 🔢
 
-## Description
+## Description 🌟🌟
 The Sudoku Solver is a C++ program that solves 9x9 Sudoku puzzles using the backtracking algorithm. The program takes an initial Sudoku grid as input, fills in the missing values, and prints the solved puzzle. It ensures all Sudoku rules are adhered to:
 - Each row must contain numbers 1 through 9 without repetition.
 - Each column must contain numbers 1 through 9 without repetition.
@@ -9,7 +9,7 @@ The Sudoku Solver is a C++ program that solves 9x9 Sudoku puzzles using the back
 
 ---
 
-## Features
+## Features⌁⌁
 - Solves standard 9x9 Sudoku puzzles.
 - Uses a recursive backtracking algorithm.
 - Verifies puzzle validity and reports if no solution exists.
@@ -17,7 +17,7 @@ The Sudoku Solver is a C++ program that solves 9x9 Sudoku puzzles using the back
 
 ---
 
-## How It Works
+## How It Works ⚡⚡
 1. The program starts by printing the provided puzzle grid.
 2. It recursively attempts to place numbers (1–9) in empty cells.
 3. Each number is validated for safety based on Sudoku rules.
@@ -56,7 +56,7 @@ The Sudoku Solver is a C++ program that solves 9x9 Sudoku puzzles using the back
   Cannot solve puzzles with multiple solutions or invalid grids.
 
 
-Author
+# Author 💮💮
 Bhavita Bhanani
 Feel free to reach out for queries or suggestions:
 Email: bhavitabhanani22@gmail.com
