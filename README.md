@@ -62,7 +62,7 @@ Feel free to reach out for queries or suggestions:
 Email: bhavitabhanani22@gmail.com
 
 
-License
+# License
 This project is open-source and available under the MIT License.
 
 
